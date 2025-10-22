@@ -2,7 +2,8 @@
 analyze and visualize to understand the medical cost distribution among different variables in the given dataset .
 # Internship Project(Group-B)
 #### Supervisor: Aishwarya Mukherjee.
-#### Team Members: 1.Debadrita Sarkar,
+#### Team Members:
+#### 1.Debadrita Sarkar,
 #### 2.Alock Roy,
 #### 3.Priyanka Debnath,
 #### 4.Neha Sorenge,
